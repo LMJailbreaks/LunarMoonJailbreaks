@@ -447,7 +447,7 @@ img::-moz-selection {
     text-align: center;
     
     color:#313131;
-    font-size:70px;
+    font-size:100px;
     font-weight: bold;
     position: 10;
     -webkit-animation:colorchange 20s infinite alternate;
